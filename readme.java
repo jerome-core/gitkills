@@ -8,6 +8,8 @@ public class test {
 	public static void main(String[] args) {
 		
 		System.out.println("result");
-		System.out.println("smile & hello");
+
+		System.out.println("smile and hello");
+
 	}
 }
